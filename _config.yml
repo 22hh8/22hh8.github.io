@@ -21,8 +21,9 @@ description: A website for HCI.
 # List of links in the navigation bar
 navbar-links:
   Individual Research: "research"
-  Good Design: "gooddesign"
-  Bad Design: "baddesign"
+  Design Critiques:
+    - Good Design: "gooddesign"
+    - Bad Design: "baddesign"
   Dorm Norms: "myproject"
   About Me: "aboutme"
   #Resources:
