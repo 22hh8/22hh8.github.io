@@ -24,7 +24,7 @@ Though we had these intentions, many users with disabilities could perceive our 
 
 This could be too much information on one small screen, especially for dyslexics, autistic users, and users with visual impairments. 
 
-Insert picture of a list view of “My Events”
+![Design Manifesto](/img/Events1.jpg)
 
 I realized that we should implement a list view (other than the search bar) that allows the user to look at the events nearby. This list interface would show the basic details of the events which would help all users since it gives them the option to just scroll through instead of clicking on every emoji. 
 
@@ -42,7 +42,7 @@ After learning these concepts, I want our project to most definitely be on a mob
 
 A clear example of information organization would be the “My Events” page on our RES app. Because our main problem was information overload, we were looking for ways to neatly display the details of the event. 
 
-Insert picture of my events next to event details
+![Design Manifesto](/img/double.jpg)
 
 As you can see, the each event has its representative emoji, name, date, start/end time, and location. Organizing them into a column list view with the most upcoming events on top was intentional. It demonstrated a timeline of events the user is interested in. Keeping a visual hierarchy and ordering data by importance is something that we implemented in our design. 
 
@@ -68,7 +68,7 @@ Something crucial to a design process is to recognize that as much as you are a 
 
 In our testing process, we conducted a cognitive walkthrough by going through the two different tasks and seeing if each step was intuitive and clearly labeled. At the end of the walkthrough, we realized that we had said each step in our design was intuitive and easily understandable. 
 
-Inser pic of cognitive walkthrough paper
+![Design Manifesto](/img/cognitive.jpeg)
 
 This is misleading. Just by looking at this cognitive walkthrough evaluation, it seems as if our design is at its final iteration where no changes need to be made. It seems like a nearly perfect design. 
 
@@ -78,7 +78,7 @@ When we did our Heuristic Evaluations and Usability Testing, we received a lot o
 
 A key example of this would be when we didn’t realize that we had a back and submit button. Since we knew how to navigate through the app, there was no need for us to press the back button to undo a mistake. We would never make a mistake! Many users pointed out that not having a back button made it harder to complete the task. 
 
-Insert picture after including a back button
+![Design Manifesto](/img/back.jpeg)
 
 After including a back button, users were able to simply go to the previous page and edit details such as a new location without having to completely restart the whole task again. 
 
