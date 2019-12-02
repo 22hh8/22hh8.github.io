@@ -24,7 +24,7 @@ navbar-links:
     - Individual Research: "research"
     - Dorm Norms: "myproject"
     - RES: "https://hci-res.github.io/"
-    - Design Manifesto: "_posts/2019-12-01-Design-Manifesto.md"
+    - Design Manifesto: "https://22hh8.github.io/2019-12-01-Design-Manifesto/"
   Design Critiques:
     - Good Design: "gooddesign"
     - Bad Design: "baddesign"
