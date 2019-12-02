@@ -1,3 +1,4 @@
+# Is Efficient and Inclusive Design Possible?
 
 Human Computer Interaction was my first design course. This was the course that allowed me to appreciate the small details in everyday designs from doors to mobile applications. Before taking this HCI, I didn’t recognize that everything I interact with is designed for me as a user. Now that I am a designer, I am now able to understand how every detail is purposeful.
 
@@ -15,7 +16,7 @@ Simply put, we had designed RES with a map interface because it is:
 - More interactive to see events represented by emojis
 - Easier to see events relative to your current location
 
-Insert picture of the map interface 
+![Design Manifesto](/img/Home1.jpg)
 
 Though we had these intentions, many users with disabilities could perceive our design as being:
 - Difficult to interact with due to the overlap of many emojis
