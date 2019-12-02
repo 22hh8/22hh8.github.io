@@ -46,19 +46,21 @@ A clear example of information organization would be the “My Events” page on
 
 As you can see, the each event has its representative emoji, name, date, start/end time, and location. Organizing them into a column list view with the most upcoming events on top was intentional. It demonstrated a timeline of events the user is interested in. Keeping a visual hierarchy and ordering data by importance is something that we implemented in our design. 
 
-### A characteristic of a good design is one where users don’t second guess their actions. 
+### Users shouldn’t second guess their actions. 
 
 Everything is so clearly labeled and actions are intuitive that the user has confidence in every step they make. The most efficient and simple design isn’t one that has the least amount of details. If anything, it is one that is the most descriptive and self-explanatory. It offers clear directions that make it easy for the user to navigate through the design.
 
 Originally, our group was very hesitant to include directions on how to drop a location when creating an event. Having directions seemed to take up a lot of space and we assumed most people know how to use a “drag and drop” pin to mark a location. 
 
-Insert picture of original paper prototype
+![Design Manifesto](/img/plus.png)
 
 As you can see in our initial paper prototype, we just had the pin in the middle of the map so that the user can drag and drop it at any location they want. 
 
 From our Heuristic Evaluations, we were told that having this pin with no directions was very misleading. The users were very hesitant to place the pin anywhere as they didn’t know what the purpose of it was. 
 
-In our second iteration, we added a box that specifically told the user what to do with the pin emoji and how this pin would be used (as a location to create an event). According to our Usability Tests, these directions were helpful and even was a positive incident. 
+![Design Manifesto](/img/Create1.jpg)
+
+In our digital mockup, we added a box that specifically told the user what to do with the pin emoji and how this pin would be used (as a location to create an event). According to our Usability Tests, these directions were helpful and even was a positive incident. 
 
 As designers, I’ve learned that we shouldn’t assume users know how to use our design. In fact, common sense isn’t so common! 
 
