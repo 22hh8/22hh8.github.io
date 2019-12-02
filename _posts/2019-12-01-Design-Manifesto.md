@@ -1,4 +1,4 @@
-# Is Efficient and Inclusive Design Possible?
+# Is an Efficient and Inclusive Design Possible?
 
 Human Computer Interaction was my first design course. This was the course that allowed me to appreciate the small details in everyday designs from doors to mobile applications. Before taking this HCI, I didn’t recognize that everything I interact with is designed for me as a user. Now that I am a designer, I am now able to understand how every detail is purposeful.
 
