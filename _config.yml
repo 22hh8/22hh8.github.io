@@ -4,7 +4,7 @@
 title: Hailey Han 
 
 # Short description of your site
-description: A website for HCI. 
+description: My Design and Data Portfolio
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -38,7 +38,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/hailey.jpeg"
+avatar: "/img/DSC_1480.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -48,13 +48,13 @@ avatar: "/img/hailey.jpeg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#dcd0ff"
+navbar-col: "#f0ebff"
 navbar-text-col: "#404040"
-navbar-children-col: "#dcd0ff"
+navbar-children-col: "#f0ebff"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#dcd0ff"
+footer-col: "#f0ebff"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -79,9 +79,9 @@ author:
 social-network-links:
   rss: true
   email: "hh8@williams.edu"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+ # facebook: deanattali
+#  github: daattali
+ # twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -103,7 +103,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://22hh8.github.io/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
