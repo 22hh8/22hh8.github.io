@@ -16,6 +16,24 @@ Then, take a % of the saturated color to top it off with black paint. As the val
 
 ### Classes Needed to Transform Images
 
-The Color object allows the colors to be represented 
+The Color object allows the colors to be represented by either RGB or HSV. There are components within the Color class that allows individual color components to come out with methods red(), green(), blue(), hue(), saturation(), and value().
 
+The Filter classes are objects that are used to transform the pixels of an image. I have provided a LighterFilter, DarkerFilter, TargetFilter, and RedFilter. 
+
+The python code is provided below:
+
+### Filter Results
+
+# LighterFilter and DarkerFilter
+
+The LighterFilter brings all the RGB values closer to white and the DarkerFilter brings all the RGB values closer to black. 
+
+This is the original image of Van Gogh's *Bedroom*.
+![Original Image](/img/Bedroom.png)
+
+This is the image after the LighterFilter.
+![Lighter Image](/img/BedroomLighter.png)
+
+This is the image after the DarkerFilter. 
+![Darker Image](/img/DarkerBedroom.png)
 
