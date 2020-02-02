@@ -47,3 +47,15 @@ This is the original image of Van Gogh's *Bedroom*.
 This is the image after the RedFilter.
 ![Red Image](/img/BedroomResult.png)
 
+### TargetFilter
+
+The TargetFilter will only keep pixels that are close to a target color while the rest of the image turns white. I have extended the Color class to include a slot that remembers the target color. There is a distance metric that decided what if the pixel color is close enough to the targeted color. 
+
+This is the original image of Van Gogh's *Bedroom*.
+![Original Image](/img/Bedroom.png)
+
+This is the image after the TargetFilter.
+![Target Image](/img/BedroomTarget.png)
+
+
+
