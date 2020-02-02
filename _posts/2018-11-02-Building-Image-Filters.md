@@ -23,6 +23,7 @@ The Filter classes are objects that are used to transform the pixels of an image
 The python code is provided below:
 
 [Color Classes](http://22hh8.github.io/filter.py)
+
 [Filter Classes](http://22hh8.github.io/lab7.py)
 
 # Filter Results
