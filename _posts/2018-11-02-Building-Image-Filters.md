@@ -22,9 +22,9 @@ The Filter classes are objects that are used to transform the pixels of an image
 
 The python code is provided below:
 
-### Filter Results
+# Filter Results
 
-# LighterFilter and DarkerFilter
+### LighterFilter and DarkerFilter
 
 The LighterFilter brings all the RGB values closer to white and the DarkerFilter brings all the RGB values closer to black. 
 
@@ -36,4 +36,14 @@ This is the image after the LighterFilter.
 
 This is the image after the DarkerFilter. 
 ![Darker Image](/img/DarkerBedroom.png)
+
+### RedFilter
+
+The RedFilter increases the red color to match the conservator's expectation of the *Bedroom*. This filter rempas the colors to what the conservator would expect. 
+
+This is the original image of Van Gogh's *Bedroom*.
+![Original Image](/img/Bedroom.png)
+
+This is the image after the RedFilter.
+![Red Image](/img/BedroomResult.png)
 
