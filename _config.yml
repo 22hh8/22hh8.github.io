@@ -22,9 +22,7 @@ description: My Design and Data Portfolio
 navbar-links:
   Design & Research: 
     - Individual Research: "research"
-    - Dorm Norms: "myproject"
     - RES: "https://hci-res.github.io/"
-    - Design Manifesto: "https://22hh8.github.io/2019-12-01-Design-Manifesto/"
   Design Critiques:
     - Good Design: "gooddesign"
     - Bad Design: "baddesign"
